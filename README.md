@@ -37,16 +37,8 @@ I am an aspiring Data Analyst with hands-on experience in data cleaning, explora
 ## 🛠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,Excel,seaborn,tableau,matplotlib" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-ff9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel" />
-</p>
-
 ---
 
 ## 📌 Featured Project
