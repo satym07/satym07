@@ -60,17 +60,39 @@ Performed end-to-end analysis on car resale data to identify key pricing drivers
 
 ---
 
-📜 Certifications
-☁️ Oracle Cloud Infrastructure – AI Foundations Associate
-<p align="left"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> </p>
-Validated foundational knowledge of AI concepts
-Understanding of cloud infrastructure & responsible AI practices
-🏦 JP Morgan Chase – Quantitative Research Job Simulation
-<p align="left"> <img src="https://img.shields.io/badge/JPMorganChase-005EB8?style=for-the-badge&logo=jpmorganchase&logoColor=white"/> </p>
-Analyzed financial time-series datasets
-Evaluated credit risk metrics
-Applied structured quantitative reasoning
-✈️ British Airways – Data Science Job Simulation
-<p align="left"> <img src="https://img.shields.io/badge/British%20Airways-2E5C99?style=for-the-badge&logo=britishairways&logoColor=white"/> </p>
-Applied data analysis techniques on structured customer data
-Built visual insights to support business understanding
+{
+  "certifications": [
+    {
+      "title": "Oracle Cloud Infrastructure 2025 – AI Foundations Associate",
+      "issuer": "Oracle",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg",
+      "focus": [
+        "AI fundamentals",
+        "Cloud infrastructure concepts",
+        "Responsible AI practices"
+      ]
+    },
+    {
+      "title": "Quantitative Research Job Simulation",
+      "issuer": "JP Morgan Chase & Co.",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jpmorgan/jpmorgan-original.svg",
+      "focus": [
+        "Financial time-series analysis",
+        "Credit risk evaluation",
+        "FICO score segmentation",
+        "Valuation modeling"
+      ]
+    },
+    {
+      "title": "Data Science Job Simulation",
+      "issuer": "British Airways",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/britishairways/britishairways-original.svg",
+      "focus": [
+        "Structured data analysis",
+        "Exploratory Data Analysis (EDA)",
+        "Data visualization",
+        "Business insight generation"
+      ]
+    }
+  ]
+}
