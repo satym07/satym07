@@ -1,42 +1,44 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center"> Data Analyst | EDA • SQL • Python</h3>
+<h3 align="center">Data Analyst | Python • SQL • Excel • EDA • Data Visualization</h3>
 
 <p align="center">
-Transforming raw datasets into structured insights that support business decisions 📊
+Turning structured datasets into actionable business insights 📊
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Data Analyst focused on extracting meaningful insights from structured datasets using Python, SQL, and Excel.
+I am a Data Analyst with hands-on experience in data cleaning, exploratory data analysis (EDA), and visualization. 
 
-- 🎓 BCA Candidate (2026)  
-- 📊 Experience analyzing 4000+ real-world data records  
-- 📈 Internship experience in Data Visualization  
-- 🎯 Passionate about data-driven decision making  
+Through academic projects and my internship at Excelerate, I’ve worked with real-world datasets to identify patterns, analyze trends, and support data-driven decision-making.
+
+- 🎓 BCA Candidate (2026) – IMS Ghaziabad  
+- 📊 Analyzed 4000+ real-world car resale records  
+- 📈 Former Data Visualization Intern  
+- 🧠 Strong foundation in analytical reasoning and structured problem-solving  
 
 ---
 
 ## 🛠 Technical Skills
 
 ### 📊 Data Analysis
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Preprocessing  
-- Correlation Analysis  
-- Trend & Pattern Identification  
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Correlation & Trend Analysis
+- Pattern Identification
 
 ### 💻 Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib)  
-- SQL (Joins, Aggregations, Group By, Filtering)  
-- Microsoft Excel (Pivot Tables, Lookups)  
-- MySQL Workbench  
-- Git & GitHub  
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Joins, Aggregations, Group By, Filtering)
+- Microsoft Excel (Pivot Tables, Lookups, Data Cleaning)
+- MySQL Workbench
+- Git & GitHub
 
-### 📚 Analytical Concepts
-- Descriptive Statistics  
-- Feature Understanding  
-- Structured Problem Solving  
+### 📚 Analytical Foundations
+- Descriptive Statistics
+- Feature Understanding
+- Structured Data Interpretation
 
 ---
 
@@ -44,43 +46,44 @@ I am a Data Analyst focused on extracting meaningful insights from structured da
 
 ### 🚗 Car Price Analysis (4000+ Records)
 
-Conducted end-to-end exploratory data analysis on car resale data to understand key pricing drivers.
+Performed end-to-end analysis on car resale data to understand key pricing drivers in the market.
 
-#### 🔍 Key Work:
-- Cleaned and structured raw dataset  
-- Analyzed impact of age, mileage, fuel type, and ownership  
-- Identified strong correlations between vehicle age and resale value  
-- Visualized pricing trends using Matplotlib  
+#### 🔍 Key Contributions:
+- Cleaned and structured raw dataset for analysis
+- Analyzed impact of age, mileage, fuel type, and ownership on resale value
+- Identified correlations between vehicle age and price depreciation
+- Built visualizations to communicate pricing trends clearly
 
-#### 📊 Outcome:
-Provided data-backed insights that explain resale price variations and support informed pricing decisions.
+#### 📊 Business Insight:
+The analysis revealed strong depreciation patterns based on vehicle age and ownership history, helping explain resale price variation across segments.
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
-### Data Visualization Intern (Remote)
+### Data Visualization Intern | Excelerate (Remote)
 
-- Prepared structured datasets using Python (Pandas, NumPy)  
-- Conducted EDA to detect trends and anomalies  
-- Built clear visualizations to communicate analytical findings  
+- Cleaned and prepared structured datasets using Python
+- Conducted EDA to identify trends and anomalies
+- Built clear visualizations to communicate insights
+- Supported data-informed decision-making through analytical findings
 
 ---
 
 ## 📜 Certifications
 
-- Oracle Cloud Infrastructure 2025 – AI Foundations Associate  
-- JP Morgan Chase – Quantitative Research Job Simulation  
-- British Airways – Data Science Job Simulation  
+- Oracle Cloud Infrastructure 2025 – AI Foundations Associate
+- JP Morgan Chase – Quantitative Research Job Simulation
+- British Airways – Data Science Job Simulation
 
 ---
 
 ## 🎯 Career Objective
 
-Seeking a Data Analyst role where I can:
-- Analyze structured datasets  
-- Extract actionable insights  
-- Contribute to data-driven strategy  
+Seeking an entry-level Data Analyst role where I can:
+- Analyze structured datasets
+- Extract meaningful insights
+- Support data-driven business strategies
 
 ---
 
