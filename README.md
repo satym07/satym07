@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | EDA • SQL • Data Visualization</h3>
+<h3 align="center"> Data Analyst | EDA • SQL • Python</h3>
 
 <p align="center">
 Transforming raw datasets into structured insights that support business decisions 📊
