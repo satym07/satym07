@@ -60,9 +60,17 @@ Performed end-to-end analysis on car resale data to identify key pricing drivers
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satym07&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satym07&layout=compact" height="160"/>
-</p>
+📜 Certifications
+☁️ Oracle Cloud Infrastructure – AI Foundations Associate
+<p align="left"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> </p>
+Validated foundational knowledge of AI concepts
+Understanding of cloud infrastructure & responsible AI practices
+🏦 JP Morgan Chase – Quantitative Research Job Simulation
+<p align="left"> <img src="https://img.shields.io/badge/JPMorganChase-005EB8?style=for-the-badge&logo=jpmorganchase&logoColor=white"/> </p>
+Analyzed financial time-series datasets
+Evaluated credit risk metrics
+Applied structured quantitative reasoning
+✈️ British Airways – Data Science Job Simulation
+<p align="left"> <img src="https://img.shields.io/badge/British%20Airways-2E5C99?style=for-the-badge&logo=britishairways&logoColor=white"/> </p>
+Applied data analysis techniques on structured customer data
+Built visual insights to support business understanding
