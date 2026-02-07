@@ -12,9 +12,6 @@ Turning structured datasets into actionable business insights 📊
   <a href="https://linkedin.com/in/satyam-kumar-cr7">
     <img src="https://img.shields.io/badge/LinkedIn-Satyam%20Kumar-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/satym07">
-    <img src="https://img.shields.io/badge/GitHub-satym07-black?style=for-the-badge&logo=github">
-  </a>
   <a href="mailto:kumarsatyam22112005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
