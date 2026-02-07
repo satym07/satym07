@@ -1,55 +1,51 @@
-<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
+<h1 align="center">Satyam Kumar</h1>
 <h3 align="center">Data Analyst | Python • SQL • Excel • EDA • Data Visualization</h3>
 
 <p align="center">
-Turning structured datasets into actionable business insights 📊
+  Transforming raw data into actionable business insights 📊
 </p>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/satyam-kumar-cr7">
     <img src="https://img.shields.io/badge/LinkedIn-Satyam%20Kumar-blue?style=for-the-badge&logo=linkedin">
   </a>
+  <a href="https://github.com/satym07">
+    <img src="https://img.shields.io/badge/GitHub-satym07-black?style=for-the-badge&logo=github">
+  </a>
   <a href="mailto:kumarsatyam22112005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
+---
 
 ## 👨‍💻 About Me
 
-I am a Data Analyst with hands-on experience in data cleaning, exploratory data analysis (EDA), and visualization. 
-
-Through academic projects and my internship at Excelerate, I’ve worked with real-world datasets to identify patterns, analyze trends, and support data-driven decision-making.
+I am an aspiring Data Analyst with hands-on experience in data cleaning, exploratory data analysis (EDA), and visualization.
 
 - 🎓 BCA Candidate (2026) – IMS Ghaziabad  
 - 📊 Analyzed 4000+ real-world car resale records  
 - 📈 Former Data Visualization Intern  
-- 🧠 Strong foundation in analytical reasoning and structured problem-solving  
+- 🧠 Strong analytical and structured problem-solving mindset  
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Technical Stack
 
-### 📊 Data Analysis
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Correlation & Trend Analysis
-- Pattern Identification
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+</p>
 
-### 💻 Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib)
-- SQL (Joins, Aggregations, Group By, Filtering)
-- Microsoft Excel (Pivot Tables, Lookups, Data Cleaning)
-- MySQL Workbench
-- Git & GitHub
-
-### 📚 Analytical Foundations
-- Descriptive Statistics
-- Feature Understanding
-- Structured Data Interpretation
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-ff9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel" />
+</p>
 
 ---
 
@@ -57,44 +53,29 @@ Through academic projects and my internship at Excelerate, I’ve worked with re
 
 ### 🚗 Car Price Analysis (4000+ Records)
 
-Performed end-to-end analysis on car resale data to understand key pricing drivers in the market.
+Performed end-to-end analysis on car resale data to identify key pricing drivers.
 
-#### 🔍 Key Contributions:
-- Cleaned and structured raw dataset for analysis
-- Analyzed impact of age, mileage, fuel type, and ownership on resale value
-- Identified correlations between vehicle age and price depreciation
-- Built visualizations to communicate pricing trends clearly
-
-#### 📊 Business Insight:
-The analysis revealed strong depreciation patterns based on vehicle age and ownership history, helping explain resale price variation across segments.
+- Cleaned and structured dataset  
+- Analyzed impact of age, mileage, fuel type  
+- Identified price depreciation patterns  
+- Built visualizations to communicate insights clearly  
 
 ---
 
 ## 💼 Experience
 
-### Data Visualization Intern | Excelerate (Remote)
+### Data Visualization Intern | Excelerate
 
-- Cleaned and prepared structured datasets using Python
-- Conducted EDA to identify trends and anomalies
-- Built clear visualizations to communicate insights
-- Supported data-informed decision-making through analytical findings
-
----
-
-## 📜 Certifications
-
-- Oracle Cloud Infrastructure 2025 – AI Foundations Associate
-- JP Morgan Chase – Quantitative Research Job Simulation
-- British Airways – Data Science Job Simulation
+- Prepared datasets using Python  
+- Conducted EDA  
+- Built clear analytical visualizations  
+- Supported data-driven decisions  
 
 ---
 
-## 🎯 Career Objective
+## 📈 GitHub Activity
 
-Seeking an entry-level Data Analyst role where I can:
-- Analyze structured datasets
-- Extract meaningful insights
-- Support data-driven business strategies
-
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satym07&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satym07&layout=compact" height="160"/>
+</p>
