@@ -60,39 +60,14 @@ Performed end-to-end analysis on car resale data to identify key pricing drivers
 
 ---
 
-{
-  "certifications": [
-    {
-      "title": "Oracle Cloud Infrastructure 2025 – AI Foundations Associate",
-      "issuer": "Oracle",
-      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg",
-      "focus": [
-        "AI fundamentals",
-        "Cloud infrastructure concepts",
-        "Responsible AI practices"
-      ]
-    },
-    {
-      "title": "Quantitative Research Job Simulation",
-      "issuer": "JP Morgan Chase & Co.",
-      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jpmorgan/jpmorgan-original.svg",
-      "focus": [
-        "Financial time-series analysis",
-        "Credit risk evaluation",
-        "FICO score segmentation",
-        "Valuation modeling"
-      ]
-    },
-    {
-      "title": "Data Science Job Simulation",
-      "issuer": "British Airways",
-      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/britishairways/britishairways-original.svg",
-      "focus": [
-        "Structured data analysis",
-        "Exploratory Data Analysis (EDA)",
-        "Data visualization",
-        "Business insight generation"
-      ]
-    }
-  ]
-}
+## 📜 Certifications
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25"/> Oracle Cloud Infrastructure 2025 – AI Foundations Associate
+Validated foundational knowledge of artificial intelligence concepts, cloud infrastructure architecture, and responsible AI practices.
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/JPMorgan_Chase_logo_2008.svg" height="20"/> JP Morgan Chase & Co. – Quantitative Research Job Simulation
+Worked on financial time-series analysis, credit risk evaluation, FICO score segmentation, and valuation modeling using structured analytical methods.
+
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/British_Airways_Logo.svg/2560px-British_Airways_Logo.svg.png" height="20"/> British Airways – Data Science Job Simulation
+Applied exploratory data analysis and visualization techniques on structured customer datasets to extract actionable business insights.
